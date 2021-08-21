@@ -1,4 +1,4 @@
-<h1 align="center">Hi there. I'm Caleb Freitas!</h1>
+<h1 align="center">Hey you. I'm Caleb Freitas!</h1>
 <h3 align="center">A web development student focused on the backend.</h3>
 <br/>
 
