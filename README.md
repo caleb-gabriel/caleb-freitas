@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there. I'm Caleb Freitas!</h1>
+<h3 align="center">A web development student focused on the backend.</h3>
+<br/>
 
-<!--
-**caleb-freitas/caleb-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently working at [e-smart - Intelligence and Technology](https://www.imtraff.com.br/esmart/).
 
-Here are some ideas to get you started:
+- I'm currently learning **JavaScript, TypeScript, SQL and Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm looking to collborate on Node.js projects
+
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/caleb-freitas/)
+
+- Some of my interests: Clean Architecture, TDD, Design Patterns and Clean Code.
