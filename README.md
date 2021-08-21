@@ -6,8 +6,8 @@
 
 - I'm currently learning **JavaScript, TypeScript, SQL and Node.js**.
 
-- I'm looking to collborate on Node.js projects
+- I'm looking to collborate on Node.js projects.
 
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/caleb-freitas/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/caleb-freitas/).
 
 - Some of my interests: Clean Architecture, TDD, Design Patterns and Clean Code.
