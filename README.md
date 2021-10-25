@@ -12,4 +12,4 @@
 
 - Some of my interests: Clean Architecture, TDD, Design Patterns and Clean Code.
 
-![Caleb Freitas's Stats]https://github-readme-stats.vercel.app/api?username=caleb-freitas&show_icons=true&theme=dracula
+![Caleb Freitas's Stats](https://github-readme-stats.vercel.app/api?username=caleb-freitas&show_icons=true&theme=dracula)
