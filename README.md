@@ -1,15 +1,18 @@
-<h1 align="center">Hey you. I'm Caleb Freitas!</h1>
-<h3 align="center">A web development student focused on the backend.</h3>
-<br/>
+<h1 align="center">Hey you! I'm Caleb Freitas</h1>
+<h3 align="center">A backend web development student.</h3>
 
-- I'm currently working at [e-smart - Intelligence and Technology](https://www.imtraff.com.br/esmart/).
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/caleb-freitas/)
 
-- I'm currently learning **JavaScript, TypeScript, SQL and Node.js**.
+- I'm currently working as intern at [e-smart](https://www.imtraff.com.br/esmart/)
 
-- I'm looking to collborate on Node.js projects.
+- I'm learning **TypeScript, Node.js and Databases (SQL and NoSQL)**
 
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/caleb-freitas/).
+- I'm looking to collaborate on open source projects
 
-- Some of my interests: Clean Architecture, TDD, Design Patterns and Clean Code.
+- Some of my professional interests: Clean Architecture, TDD and Design Patterns
 
-![Caleb Freitas's Stats](https://github-readme-stats.vercel.app/api?username=caleb-freitas&show_icons=true&theme=dracula)
+- Important things in my life: Catholicism, classical education and classical music
+
+![Caleb Freitas's Stats](https://github-readme-stats.vercel.app/api?username=caleb-freitas&show_icons=false&theme=dracula)
+![Caleb Freitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-freitas&layout=compact&langs_count=7&theme=dracula)
+
