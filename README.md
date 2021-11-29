@@ -6,9 +6,8 @@
 
 - I'm looking to collaborate on open source projects
 
-- Some of my professional interests: Clean Architecture, TDD and Design Patterns
+- Some interests I plan to study soon: Clean Architecture, TDD and Design Patterns
 
-- Important things in my life: Catholicism, literature and classical music
 
 ##
 
